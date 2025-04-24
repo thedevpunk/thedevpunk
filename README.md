@@ -1,8 +1,7 @@
 # 👋 Hi, I’m André 
-I love to code and learn to code.
+I love to code.
 
-- 👀 Technologies I'm using are .Net, ASP.Net NodeJS, React, ...
-- 🌱 I’m currently learning NodeJS, express and mongoose
+- 👀 Technologies I'm using are .Net, ASP.Net NodeJS, React, NextJS, Docker, Kubernetes ...
 - 📫 You can reach me via twitter @thedevpunk
 
 <!---
